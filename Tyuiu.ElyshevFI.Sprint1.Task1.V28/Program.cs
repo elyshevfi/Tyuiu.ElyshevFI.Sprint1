@@ -12,7 +12,7 @@ namespace Tyuiu.ElyshevFI.Sprint1.Task1.V28
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
+            Console.WriteLine("* Тема: Организация ввода и вывода в консольных приложениях               *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #28                                                             *");
             Console.WriteLine("* Выполнил: Елышев Фёдор Игоревич | АСОиУБ-26-1                           *");
